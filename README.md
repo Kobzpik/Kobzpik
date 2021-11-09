@@ -12,7 +12,7 @@
 <h3 align="left">Github status:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kobzpik&show_icons=true&locale=en&layout=compact" alt="Kobzpik" /></p>
 
-<p>&psp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobzpik&show_icons=true&locale=en" alt="Kobzpik" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kobzpik&show_icons=true&locale=en" alt="Kobzpik" /></p>
 
 
 
