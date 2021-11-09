@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#<h3>I'm a Student, Developer, and Graphic Designer!</h3>
-<hr height=10px">
+<h3>I'm a Student, Developer, and Graphic Designer!</h3>
+<hr height="10px">
 <h3 align="left">You can find me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/prabath.kobbawela/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook-alt.svg" alt="Prabath Kobbaweka" height="30" width="40" /></a>
