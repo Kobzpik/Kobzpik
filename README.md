@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3>I'm a Student, Developer, and Graphic Designer!</h3>
+#<h3>I'm a Student, Developer, and Graphic Designer!</h3>
 <hr height=10px">
 <h3 align="left">You can find me:</h3>
 <p align="left">
