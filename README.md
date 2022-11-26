@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3>I'm a Student, Developer, and Graphic Designer!</h3>
+<h3>I'm a Student at <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>, Developer, and Graphic Designer!</h3>
 <hr height="1px">
 <h3 align="left">You can find me:</h3>
 <p align="left">
