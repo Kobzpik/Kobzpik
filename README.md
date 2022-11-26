@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3>I'm a Student at <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>, Developer, and Graphic Designer!</h3>
+<h3>I'm a Student at <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.</h3>
 <h4>Also I'm a AWS Cloud enthusiastic, Developer, and Graphic Designer!</h4>
 
 <hr height="1px">
