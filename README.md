@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<h3>I'm a Student at <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.</h3>
-<h4>Also I'm a AWS Cloud enthusiast, Developer, and Graphic Designer!</h4>
+<h3>I'm a graduate at <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.</h3>
+<h4>Also I'm a DevOps enthusiast, Developer, and Graphic Designer!</h4>
 
 <hr height="1px">
 <h3 align="left">You can find me:</h3>
